@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir /webapps/myApp
-cd /webapps/myApp
+mkdir /home/ubuntu/nodejs
+cd /home/ubuntu/nodejs
 
-sudo yarn
+sudo npm install
